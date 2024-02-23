@@ -1,0 +1,8 @@
+estudiante user1
+estudiante user2
+docente user3
+docente user4
+administracion user5
+administracion user6
+investigador user7
+investigador user8

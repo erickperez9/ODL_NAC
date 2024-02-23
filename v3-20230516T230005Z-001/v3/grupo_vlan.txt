@@ -1,0 +1,4 @@
+100 estudiante
+200 docente
+300 administracion
+400 investigador
