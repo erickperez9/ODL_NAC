@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 14 18:26:18 2023
 
-@author: Mateo
 """
 
 import requests
