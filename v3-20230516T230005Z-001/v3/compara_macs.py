@@ -1,8 +1,20 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 14 23:10:11 2023
+Autores: [Erick Pérez P. - Mateo Molina Y.]
+Fecha: [14/06/2023]
+Descripcion: [El presente codigo ha sido desarrollado y compilado con la 
+              version 3.8 de python. El codigo tiene como objetivo la 
+              implementacion de un servidor de acceso a la red, NAC, a través 
+              de consultas GET al controlador OpenDaylight y a partir de los 
+              resultados obtenidos trabajar con archivos tipo JSON. Se hace uso
+              funciones de ayuda que realizan los procesos de obtencion del
+              estado de la topologia y valicacion de usuarios basados en 
+              archivos de texto con informacion de direcciones MAC, usuarios,
+              departamentos y VLANs.]
 
-@author: Mateo
+Licencia: [Este código es de libre distribucion para fines academicos e 
+           investigativos.]
+
 """
 
 def buscar_usuarios(macs):
